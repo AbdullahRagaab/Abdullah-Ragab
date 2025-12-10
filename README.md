@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0:1e3c72,100:2a5298&height=220&section=header&text=Abdallah%20Ragab%20👨‍💻&fontSize=50&fontColor=ffffff&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Abdallah%20Ragab%20👨‍💻&fontSize=50&fontColor=ffffff&animation=twinkling)
 
 # 👋 Hi, I'm Abdallah Ragab
 ### 💻 MERN Stack Developer | Full-Stack Enthusiast | Open Source Contributor
@@ -8,14 +8,14 @@ I focus on **React, Node.js, Express, MongoDB**, and **TypeScript**, with strong
 
 ---
 
-## 🔥 Current Focus
+## 🔭 Current Focus
 - Building a **Task Management System** with React + TypeScript + MockAPI  
 - Improving **E-commerce Platform architecture**  
 - Learning **Advanced TypeScript Patterns** & **Backend Scalability**
 
 ---
 
-## 🧰 Tech Stack & Core Skills
+## 🧰 Tech Stack & Skills
 
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
@@ -51,14 +51,12 @@ OOP • SOLID Principles • Design Patterns • Clean Code • Architecture Pat
 
 | Project | Tech | Demo |
 |---------|------|------|
-| **Task-Manager-App** | React + TypeScript + MockAPI | 🔗 Link |
-| **E-Commerce** | React + Node + Express + MongoDB | 🔗 Link |
-| **The Wild Hotel** | React Admin Dashboard + Charts + Auth | 🔗 Link |
-| **Movie App** | React + TMDB API | 🔗 Link |
-| **Portfolio** | React + Tailwind | 🔗 Link |
-| **Wallet-Frontend** | React + Tailwind | 🔗 Link |
-
-*(Replace 🔗 Link with your live demo or GitHub link)*
+| **Task-Manager-App** | React + TypeScript + MockAPI | 🔗 [Link](https://github.com/AbdullahRagaab/Task-Manager-App) |
+| **E-Commerce** | React + Node + Express + MongoDB | 🔗 [Link](https://github.com/AbdullahRagaab/E-Commerce) |
+| **The Wild Hotel** | React Admin Dashboard + Charts + Auth | 🔗 [Link](https://github.com/AbdullahRagaab/The-Wild-Hotel) |
+| **Movie App** | React + TMDB API | 🔗 [Link](https://github.com/AbdullahRagaab/MovieApp) |
+| **Portfolio** | React + Tailwind | 🔗 [Link](https://github.com/AbdullahRagaab/Portfolio) |
+| **Wallet-Frontend** | React + Tailwind | 🔗 [Link](https://github.com/AbdullahRagaab/wallet-frontend) |
 
 ---
 
